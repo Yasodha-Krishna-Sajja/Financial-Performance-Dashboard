@@ -160,7 +160,7 @@ Financial-Performance-Dashboard/
 ├── Financials.xlsx
 ├── README.md
 │
-├── screenshots/
+├── Dashboard_Screenshots/
 │   ├── page1_financial_overview.png
 │   ├── page2_product_analysis.png
 │   └── page3_profitability_analysis.png
